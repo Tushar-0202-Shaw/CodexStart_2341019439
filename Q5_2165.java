@@ -1,3 +1,8 @@
+/*
+Name :- Tushar Shaw
+Regd No. :- 2341019439
+Linl :- https://cses.fi/problemset/task/2165
+    */
 import java.util.Scanner;
 public class Q5_2165 {
     public static void hanoi(int n,char first_twr,char second_twr,char third_twr){
