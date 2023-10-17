@@ -1,3 +1,8 @@
+/*
+Name :- Tushar Shaw
+Regd No. :- 2341019439
+Linl :- https://cses.fi/problemset/task/1072
+    */
 import java.util.Scanner;
 public class Q8_1072 {
     public static void main(String[] args) {
