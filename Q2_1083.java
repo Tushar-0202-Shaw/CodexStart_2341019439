@@ -1,7 +1,7 @@
 /*
 Name :- Tushar Shaw
 Regd No. :- 2341019439
-Linl :- https://cses.fi/problemset/task/1069
+Linl :- https://cses.fi/problemset/task/1083
     */
 import java.util.Scanner;
 public class Q2_Missing_Number {
